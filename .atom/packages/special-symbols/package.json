@@ -1,0 +1,66 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "/private/var/folders/vk/7d7f503564l0_d95n8y3k67h0000gn/T/d-1171113-46759-1kn1lul/package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "/private/var/folders/vk/7d7f503564l0_d95n8y3k67h0000gn/T/d-1171113-46759-1kn1lul/package.tgz",
+        "spec": "/private/var/folders/vk/7d7f503564l0_d95n8y3k67h0000gn/T/d-1171113-46759-1kn1lul/package.tgz",
+        "type": "local"
+      },
+      "/private/var/folders/vk/7d7f503564l0_d95n8y3k67h0000gn/T/apm-install-dir-1171113-46759-6onfez"
+    ]
+  ],
+  "_from": "../d-1171113-46759-1kn1lul/package.tgz",
+  "_id": "special-symbols@0.1.0",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/special-symbols",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "/private/var/folders/vk/7d7f503564l0_d95n8y3k67h0000gn/T/d-1171113-46759-1kn1lul/package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "/private/var/folders/vk/7d7f503564l0_d95n8y3k67h0000gn/T/d-1171113-46759-1kn1lul/package.tgz",
+    "spec": "/private/var/folders/vk/7d7f503564l0_d95n8y3k67h0000gn/T/d-1171113-46759-1kn1lul/package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:../d-1171113-46759-1kn1lul/package.tgz",
+  "_shasum": "cebb6d500adaf59b024ade8f7973b6fe1b90823e",
+  "_shrinkwrap": null,
+  "_spec": "/private/var/folders/vk/7d7f503564l0_d95n8y3k67h0000gn/T/d-1171113-46759-1kn1lul/package.tgz",
+  "_where": "/private/var/folders/vk/7d7f503564l0_d95n8y3k67h0000gn/T/apm-install-dir-1171113-46759-6onfez",
+  "activationCommands": {
+    "atom-workspace": "special-symbols:toggle"
+  },
+  "bugs": {
+    "url": "https://github.com/SwiftsNamesake/special-symbols/issues"
+  },
+  "dependencies": {
+    "jquery": "^2.1.4"
+  },
+  "description": "If you like π, you'll love this plugin.",
+  "devDependencies": {},
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "homepage": "https://github.com/SwiftsNamesake/special-symbols#readme",
+  "keywords": [],
+  "license": "MIT",
+  "main": "./lib/special-symbols",
+  "name": "special-symbols",
+  "optionalDependencies": {},
+  "readme": "# special-symbols package\n\nThis extension lets you insert Unicode symbols that would otherwise be very cumbersome or impossible to type on a standard keyboard.\n\n![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SwiftsNamesake/special-symbols.git"
+  },
+  "version": "0.1.0"
+}
